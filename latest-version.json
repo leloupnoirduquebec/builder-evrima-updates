@@ -1,0 +1,32 @@
+{
+  "version": "0.21.414",
+  "appVersion": "0.1.0",
+  "releaseDate": "2026-02-17",
+  "changelog": {
+    "fr": [
+      "🦖 Calculateur de stats complet : santé, attaque, stamina, vitesse par dino",
+      "🧬 Support des mutations génétiques avec calcul d'impact sur les stats",
+      "⭐ Mode Prime : affichage des stats au stade Prime pour tous les dinosaures",
+      "📚 Wiki Dino : biographies paléontologiques bilingues FR/EN pour chaque espèce",
+      "🎙️ Synthèse vocale avancée : lecture fluide des biographies (fix bug Chromium)",
+      "📖 Onglet Aide de Jeu : raccourcis clavier, mécaniques, conseils de survie, glossaire",
+      "🎨 6 thèmes de couleurs personnalisables (Vert, Rouge, Bleu, Violet, Or, Cyan)",
+      "🌍 Interface entièrement bilingue FR/EN avec bascule instantanée",
+      "🔔 Système de notification de mise à jour automatique au lancement",
+      "🖥️ Interface optimisée 1920×1080 avec défilement indépendant des colonnes"
+    ],
+    "en": [
+      "🦖 Full stat calculator: health, attack, stamina, speed per dinosaur",
+      "🧬 Genetic mutations support with stat impact calculation",
+      "⭐ Prime Mode: display Prime-stage stats for all dinosaurs",
+      "📚 Dino Wiki: bilingual FR/EN paleontological biographies for each species",
+      "🎙️ Advanced text-to-speech: smooth biography reading (Chromium bug fix)",
+      "📖 Game Help tab: key bindings, mechanics, survival tips, glossary",
+      "🎨 6 customizable color themes (Green, Red, Blue, Purple, Gold, Cyan)",
+      "🌍 Fully bilingual FR/EN interface with instant toggle",
+      "🔔 Automatic update notification system on launch",
+      "🖥️ 1920×1080 optimized layout with independent column scrolling"
+    ]
+  },
+  "releaseUrl": "https://github.com/leloupnoirduquebec/builder-evrima-updates/releases"
+}
