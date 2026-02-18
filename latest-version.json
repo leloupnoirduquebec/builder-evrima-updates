@@ -1,31 +1,21 @@
 {
-  "version": "0.21.414",
+  "version": "0.22.0",
   "appVersion": "0.1.0",
-  "releaseDate": "2026-02-17",
+  "releaseDate": "2026-02-18",
   "changelog": {
     "fr": [
-      "🦖 Calculateur de stats complet : santé, attaque, stamina, vitesse par dino",
-      "🧬 Support des mutations génétiques avec calcul d'impact sur les stats",
-      "⭐ Mode Prime : affichage des stats au stade Prime pour tous les dinosaures",
-      "📚 Wiki Dino : biographies paléontologiques bilingues FR/EN pour chaque espèce",
-      "🎙️ Synthèse vocale avancée : lecture fluide des biographies (fix bug Chromium)",
-      "📖 Onglet Aide de Jeu : raccourcis clavier, mécaniques, conseils de survie, glossaire",
-      "🎨 6 thèmes de couleurs personnalisables (Vert, Rouge, Bleu, Violet, Or, Cyan)",
-      "🌍 Interface entièrement bilingue FR/EN avec bascule instantanée",
-      "🔔 Système de notification de mise à jour automatique au lancement",
-      "🖥️ Interface optimisée 1920×1080 avec défilement indépendant des colonnes"
+      "👑 Prime Slots indépendants : chaque vie (Base/Tome1/2/3) a son propre slot Prime (+1 mutation)",
+      "🔒 Verrouillage Prime : nécessite 75% de croissance pour activer",
+      "🦖 Wiki Dino : Stegosaurus, Hypsilophodon, Tenontosaurus ajoutés (bilingue FR/EN)",
+      "📊 Stats corrigées : vitesse, force de morsure et descriptions des 3 nouveaux dinos",
+      "🐛 Fix calcul mutations : 3 slots base + 1 prime par vie (max 16 au total)"
     ],
     "en": [
-      "🦖 Full stat calculator: health, attack, stamina, speed per dinosaur",
-      "🧬 Genetic mutations support with stat impact calculation",
-      "⭐ Prime Mode: display Prime-stage stats for all dinosaurs",
-      "📚 Dino Wiki: bilingual FR/EN paleontological biographies for each species",
-      "🎙️ Advanced text-to-speech: smooth biography reading (Chromium bug fix)",
-      "📖 Game Help tab: key bindings, mechanics, survival tips, glossary",
-      "🎨 6 customizable color themes (Green, Red, Blue, Purple, Gold, Cyan)",
-      "🌍 Fully bilingual FR/EN interface with instant toggle",
-      "🔔 Automatic update notification system on launch",
-      "🖥️ 1920×1080 optimized layout with independent column scrolling"
+      "👑 Independent Prime Slots: each life (Base/Tome1/2/3) has its own Prime slot (+1 mutation)",
+      "🔒 Prime lock: requires 75% growth to activate",
+      "🦖 Dino Wiki: Stegosaurus, Hypsilophodon, Tenontosaurus added (bilingual FR/EN)",
+      "📊 Corrected stats: speed, bite force and descriptions for 3 new dinos",
+      "🐛 Fix mutation count: 3 base slots + 1 prime per life (max 16 total)"
     ]
   },
   "releaseUrl": "https://github.com/leloupnoirduquebec/builder-evrima-updates/releases"
